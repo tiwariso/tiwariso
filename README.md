@@ -9,10 +9,10 @@
 ### 🔧 Technologies & Tools
 - 💻 Languages: C, C++, Python, Java
 - 🛠️ Tools: Git, GitHub, VS Code, Linux
-- 🌐 Web Dev: HTML, CSS, JavaScript
+- 🌐 Web Dev: HTML, CSS
 
 ### 📈 My Goals
-- 🚀 Aim to achieve **SGPA above 8.6** in Semester 3.
+- 🚀 Aim to achieve **SGPA above 8.6** in Semester 6.
 - 📖 Enhance problem-solving skills with **competitive programming**.
 - 🤝 Open to collaborations on **open-source projects** and **software development**.
 
