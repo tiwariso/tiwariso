@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Siddharth Tiwari  
 
-🎓 B.Tech Computer Science & Data Science student | 💻 Aspiring App Developer | 🚀 Passionate about Problem Solving, DSA & App Development  
+🎓 B.Tech Computer Science & Data Science Student  
+💻 Aspiring App Developer | 🚀 DSA & Problem Solving Enthusiast  
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **Data Structures & Algorithms, App Development, and Machine Learning**  
-- 👀 Interested in **Software Development, AI, Data Science**  
-- 🎯 Goal: To build impactful tech solutions and gain industry experience through internships  
-- ⚡ Fun fact: I enjoy cricket & exploring new technologies  
+- 🌱 Currently learning **Data Structures & Algorithms, App Development, Machine Learning**
+- 👀 Interested in **Software Development, AI & Data Science**
+- 🎯 Goal: Build impactful tech solutions & secure internships
+- ⚡ Fun fact: I enjoy cricket & exploring new technologies
 
 ---
 
@@ -18,24 +19,33 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tiwariso&row=1&column=6&theme=onedark&no-frame=true" alt="Trophies" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwariso&show_icons=true&theme=radical" alt="Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwariso&theme=radical" alt="Streak" height="150"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariso&layout=compact&theme=radical" alt="Languages" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiwariso&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiwariso&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariso&layout=compact&theme=default" />
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddharth-tiwari"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:rssoftwarengp@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/tiwariso"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/siddharth-tiwari">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:rssoftwarengp@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/tiwariso">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
@@ -45,4 +55,4 @@
 
 ---
 
-⭐️ *“Striving to learn, build, and contribute — one commit at a time.”*  
+⭐️ *“Striving to learn, build, and contribute — one commit at a time.”*
